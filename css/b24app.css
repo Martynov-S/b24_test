@@ -1,0 +1,32 @@
+.project-form-field {
+	height: 50px !important;
+	line-height: 2.42857143 !important;
+}
+
+.project-form-field-item {
+	display: inline-block;
+	margin-right: 10px;
+	margin-left: 5px;
+}
+
+#opt-project-item-name-container {
+	display: none;
+	margin: 0;
+	padding: 0;
+	max-width: 550px;
+	height: 100%;
+	width: auto;
+}
+
+.project-form-field-item-element {
+	display: inline-block;
+	margin: 0;
+	padding: 0 5px;
+	border: solid 1px #B9F6CA;
+	background-color: #B9F6CA;
+	height: 100%;
+}
+
+#opt-project-item-name-close :hover {
+	cursor: pointer;
+}
